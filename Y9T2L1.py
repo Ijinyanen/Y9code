@@ -1,4 +1,4 @@
-#There is a purposeful small mistake in the code. Students to correct it.
+#There is a purposeful small mistake in the code. Correct it.
 
 intChoice=int(input("Enter 1 for a Maths Question and 2 for a Geography Question: "))
 
